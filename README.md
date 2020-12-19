@@ -1,3 +1,3 @@
 # Techdegree
-[link]https://teamtreehouse.com/
+[link](https://teamtreehouse.com/)
 JavaScript
